@@ -1,0 +1,13 @@
+Order_ID,Date,Product,Category,Quantity,Price,City,Revenue,Sale_Type,Month
+1001,2026-01-05,Laptop,Electronics,2,60000,Noida,120000,High Sale,January
+1002,2026-01-08,Mobile,Electronics,3,25000,Delhi,75000,High Sale,January
+1003,2026-01-10,Headphone,Accessories,5,3000,Noida,15000,Normal Sale,January
+1004,2026-01-15,Keyboard,Accessories,4,1500,Gurgaon,6000,Normal Sale,January
+1005,2026-02-02,Laptop,Electronics,1,60000,Delhi,60000,High Sale,February
+1006,2026-02-10,Mobile,Electronics,2,25000,Noida,50000,High Sale,February
+1007,2026-02-14,Mouse,Accessories,6,1000,Gurgaon,6000,Normal Sale,February
+1008,2026-02-20,Tablet,Electronics,2,30000,Delhi,60000,High Sale,February
+1009,2026-03-01,Laptop,Electronics,3,60000,Noida,180000,High Sale,March
+1010,2026-03-05,Headphone,Accessories,4,3000,Gurgaon,12000,Normal Sale,March
+1011,2026-03-12,Mobile,Electronics,5,25000,Delhi,125000,High Sale,March
+1012,2026-03-18,Mouse,Accessories,8,1000,Noida,8000,Normal Sale,March
